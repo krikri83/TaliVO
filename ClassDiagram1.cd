@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Thali.Etape">
+    <Position X="4.25" Y="3" Width="1.5" />
+    <Members>
+      <Method Name="Etape" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAEAAAAAAEIAAQAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Etape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Thali.MiniExcursion">
+    <Position X="0.5" Y="2.25" Width="2" />
+    <Members>
+      <Method Name="MiniExcursion" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAIAAAAQEAAAAIAAgAIAAAAAAAAAAAA=</HashCode>
+      <FileName>MiniExcursion.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="lesEtapes" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Thali.MiniExcursionPlanifiée">
+    <Position X="4.5" Y="0.75" Width="2" />
+    <Members>
+      <Method Name="MiniExcursionPlanifiée" Hidden="true" />
+    </Members>
+    <AssociationLine Name="laMiniExcursion" Type="Thali.MiniExcursion" ManuallyRouted="true">
+      <Path>
+        <Point X="4.5" Y="1.868" />
+        <Point X="2.75" Y="1.868" />
+        <Point X="2.75" Y="1.853" />
+        <Point X="1.5" Y="1.853" />
+        <Point X="1.5" Y="2.25" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAQAAAAAAAAAgAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>MiniExcursionPlanifiée.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="laMiniExcursion" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Thali.PlanningJournee">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <Members>
+      <Method Name="PlanningJournee" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>PlanningJournee.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="lesExcursionsPlanifiees" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Thali.MiniExcursionPayante">
+    <Position X="0.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>MiniExcursionPayante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

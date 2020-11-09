@@ -1,0 +1,6 @@
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 6\devoir\TaliV0\TaliV0\Thali\bin\Debug\Thali.exe
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 6\devoir\TaliV0\TaliV0\Thali\bin\Debug\Thali.pdb
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 6\devoir\TaliV0\TaliV0\Thali\obj\x86\Debug\Thali.csprojAssemblyReference.cache
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 6\devoir\TaliV0\TaliV0\Thali\obj\x86\Debug\Thali.csproj.CoreCompileInputs.cache
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 6\devoir\TaliV0\TaliV0\Thali\obj\x86\Debug\Thali.exe
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 6\devoir\TaliV0\TaliV0\Thali\obj\x86\Debug\Thali.pdb
